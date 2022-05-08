@@ -16,7 +16,7 @@
 			"description": "gametest-module",
 			"uuid": "05a49340-2fd4-4a9b-b1c4-2f2db739142a",
 			"version": [0, 0, 1],
-			"entry": "source/initialize.js"
+			"entry": "script/initialize.js"
 		}
 	],
 	
