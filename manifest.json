@@ -6,16 +6,17 @@
 		"description": "Example gametest pack",
 		"uuid": "3c030526-791a-489c-a8a7-00aef86ed01e",
 		"version": [0, 1, 0],
-		"min_engine_version": [1, 18, 30]
+		"min_engine_version": [1, 19, 0]
 	},
 	
 	"modules": [
 		{
-			"type": "javascript",
+			"type": "script",
+			"language": "javascript",
 			"description": "gametest-module",
 			"uuid": "05a49340-2fd4-4a9b-b1c4-2f2db739142a",
 			"version": [0, 0, 1],
-			"entry": "source/1.19.0.27/0.1.0/script.js"
+			"entry": "source/initialize.js"
 		}
 	],
 	
